@@ -6,8 +6,8 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.anjelitahp0044.Assessment1.MainScreen
 import com.anjelitahp0044.Assessment1.screens.AboutScreen
+import com.anjelitahp0044.Assessment1.screens.MainScreen
 
 @Composable
 fun AppNavigation(
