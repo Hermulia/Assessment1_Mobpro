@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">Assessment1</string>
+    <string name="app_name">Temperature Converter</string>
+    <string name="input_label">Enter temperature</string>
+    <string name="select_unit">Select unit:</string>
+    <string name="convert">Convert</string>
+    <string name="invalid_input">Please enter a valid number</string>
+    <string name="result_title">Result: %1$s</string>
+    <string name="conversion_history">Conversion History</string>
+    <string name="share_button">Share</string>
+    <string name="share_message">The result of the conversion is: %1$s</string>
+    <string name="back">Back</string>
+    <string name="share_via">Share Via</string>
+    <string name="about">About This App</string>
+    <string name="about_text">This application provides a fast and reliable way to convert temperatures between Celsius, Fahrenheit, and Kelvin. Whether you\'re working on a science project, traveling abroad, or just curious about the weather in different units, this app has you covered.</string>
+    <string name="about_me"> This project was created to fulfill Assessment 1\n Course : Mobile Programming 1 (Mobpro 1)\n Created by : \n Name : Anjelita Hermulia Putri\n Student ID : 607062330044\n Class : D3IF-47-01</string>
 </resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Konverter Suhu</string>
+    <string name="input_label">Masukkan Suhu</string>
+    <string name="select_unit">Pilih satuan:</string>
+    <string name="convert">Konversi</string>
+    <string name="invalid_input">Masukkan angka yang valid</string>
+    <string name="result_title">Hasil: %1$s</string>
+    <string name="conversion_history">Riwayat Konversi</string>
+    <string name="back">Kembali</string>
+    <string name="share_via">Bagikan Melalui</string>
+    <string name="about">Tentang Aplikasi </string>
+    <string name="about_text">Aplikasi ini menyediakan cara yang cepat dan andal untuk mengonversi suhu antara Celsius, Fahrenheit, dan Kelvin. Baik Anda sedang mengerjakan proyek sains, bepergian ke luar negeri, atau sekadar ingin tahu tentang cuaca dalam satuan yang berbeda, aplikasi ini siap membantu Anda.</string>
+    <string name="share_button">Bagikan</string>
+    <string name="share_message">Hasil konversinya adalah: %1$s</string>
+    <string name="about_me">" Tugas ini dibuat untuk memenuhi Assessment 1 Mata Kuliah : Mobpro 1  Dibuat oleh :  Nama : Anjelita Hermulia Putri  NIM : 607062330044  Kelas : D3IF-47-01"</string>
+</resources>
